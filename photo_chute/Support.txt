@@ -1,0 +1,1 @@
+Photo Chute is a simple but challenging tile sliding puzzle. If you need support on an issue related to this game, please create a detailed issue on this GitHub repository. Thank you.
