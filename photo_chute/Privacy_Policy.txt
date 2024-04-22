@@ -1,0 +1,2 @@
+Photo Chute does not collect, store, or share any personal data from users. We respect your privacy and are committed to protecting your personal information. We do not use any third-party services that collect personal data. The only information stored between sessions is the user's preference for light or dark mode. If you have any questions about our privacy practices, please raise an issue on this GitHub repository.
+By using Photo Chute, you agree to our privacy policy. If you do not agree with our privacy policy, please do not use Photo Chute.
